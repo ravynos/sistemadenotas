@@ -1,7 +1,7 @@
 import {Titulo}  from "./compontentes/Titulo"
 import {Cards} from "./compontentes/Cards";
 
-import "./global.css"
+import './global.css'
 
 export function App() {
   return (
